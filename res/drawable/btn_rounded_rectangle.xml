@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- 内部颜色 -->
+
+	<solid android:color="#ffff6633"/>
+    <corners 
+         android:bottomRightRadius="6dip"
+         android:bottomLeftRadius="6dip" 
+         android:topRightRadius="6dip" 
+         android:topLeftRadius="6dip"/>
+	
+</shape>

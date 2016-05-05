@@ -1,0 +1,50 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <LinearLayout
+        android:id="@+id/console_line_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/main_navigation_background"
+        android:orientation="horizontal" >
+
+        <RadioGroup
+            android:id="@+id/main_tab_group"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:background="@drawable/main_navigation_background"
+            android:gravity="bottom"
+            android:orientation="horizontal"
+            android:paddingTop="2.0dip" >
+
+            <RadioButton
+                android:id="@+id/main_tab_chat"
+                style="@style/main_tab_bottom"
+                android:checked="true"
+                android:drawableTop="@drawable/main_1"
+                android:text="@string/main_navigation_chat" />
+
+            <RadioButton
+                android:id="@+id/main_tab_contacts"
+                style="@style/main_tab_bottom"
+                android:drawableTop="@drawable/main_2"
+                android:text="@string/main_navigation_contacts" />
+
+            <RadioButton
+                android:id="@+id/main_tab_me"
+                style="@style/main_tab_bottom"
+                android:drawableTop="@drawable/main_3"
+                android:text="@string/main_navigation_me" />
+            
+        </RadioGroup>
+    </LinearLayout>
+
+</RelativeLayout>

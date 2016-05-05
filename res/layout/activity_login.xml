@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+       
+        <RelativeLayout
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_marginTop="60dp"
+              android:layout_marginBottom="10dp"
+              android:layout_gravity="center_horizontal" >
+
+            <TextView 
+                android:drawableStart="@drawable/wechat_bg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/app_name"
+                android:textSize="30sp"
+                android:gravity="center"
+                android:drawablePadding="5dp"
+                />
+              
+          </RelativeLayout>
+          
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/dp_10"
+            android:background="@drawable/layout_round_border"
+            android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/login_et_mobile"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/login_text_border"
+                android:digits="1234567890"
+                android:drawableLeft="@drawable/login_user"
+                android:focusable="true"
+                android:hint="请输入手机号"
+                android:imeOptions="actionNext"
+                android:inputType="numberSigned"
+                android:maxLength="11" >
+
+                <requestFocus />
+            </EditText>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dip"
+                android:background="@android:color/holo_blue_light" />
+
+            <EditText
+                android:id="@+id/login_et_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/login_password_border"
+                android:drawableLeft="@drawable/login_password"
+                android:ems="10"
+                android:hint="请输入密码"
+                android:imeOptions="actionDone"
+                android:inputType="textPassword" />
+        </LinearLayout>
+
+        <LinearLayout android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="2" 
+            android:orientation="horizontal" >
+            <Button
+	            android:id="@+id/login_btn_login"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_margin="@dimen/dp_10"
+	            android:background="@drawable/btn_round"
+	            android:layout_weight="1" 
+	            android:text="@string/login"
+	            android:textColor="#FFFFFF" />
+            <Button
+	            android:id="@+id/login_btn_register"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:layout_margin="@dimen/dp_10"
+	            android:layout_weight="1" 
+	            android:background="@drawable/btn_round"
+	            android:text="@string/register"
+	            android:textColor="#FFFFFF" />
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>
