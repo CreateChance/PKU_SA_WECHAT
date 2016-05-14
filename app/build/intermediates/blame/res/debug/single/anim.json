@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/anim/activity_new.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/anim/activity_new.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/anim/activity_back.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/anim/activity_back.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/anim/activity_finish.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/anim/activity_finish.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/anim/activity_out.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/anim/activity_out.xml"
+    }
+]

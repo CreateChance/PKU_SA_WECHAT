@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/color/common_text_color_0057af_white.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/color/common_text_color_0057af_white.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/color/common_text_color_333333_white.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/color/common_text_color_333333_white.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/color/common_text_color_868686_white.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/color/common_text_color_868686_white.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/color/send_btn_textcolor.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/color/send_btn_textcolor.xml"
+    }
+]

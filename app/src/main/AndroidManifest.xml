@@ -1,69 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="cn.edu.pku.wechat"
-    android:installLocation="auto"
-    android:versionCode="1"
-    android:versionName="1.0" >
+    package="com.way.push"
+    android:versionCode="3"
+    android:versionName="1.1.0" >
 
     <uses-sdk
-        android:minSdkVersion="17"
-        android:targetSdkVersion="21" />
-
-    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
-    <uses-permission android:name="android.permission.BAIDU_LOCATION_SERVICE" />
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+    <!-- Push service 运行需要的权限 -->
     <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.ACCES_MOCK_LOCATION" />
-    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-    <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS" />
-    <uses-permission android:name="android.permission.WAKE_LOCK" />
-    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
-    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-    <uses-permission android:name="android.permission.ACCESS_GPS" />
-    <!-- SDK1.5需要android.permission.GET_TASKS权限判断本程序是否为当前运行的应用? -->
-    <uses-permission android:name="android.permission.GET_TASKS" />
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
     <uses-permission android:name="android.permission.BROADCAST_STICKY" />
     <uses-permission android:name="android.permission.WRITE_SETTINGS" />
-    <!-- 来电消音 -->
-    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
-    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
-    <uses-permission android:name="android.permission.RECORD_AUDIO" />
-    <!-- 摄影机 -->
-    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.VIBRATE" />
 
-    <uses-feature android:name="android.hardware.camera" />
-    <uses-feature android:name="android.hardware.camera.autofocus" />
-    <uses-feature android:name="android.hardware.camera.flash" />
-
-    <uses-permission android:name="android.permission.CALL_PHONE" />
-
-        
+    <!-- for log. -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_DOWNLOAD_MANAGER" />
+    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
     <application
-        android:name="cn.edu.pku.wechat.Application"
-        android:allowBackup="true"
+        android:name="com.way.app.PushApplication"
+        android:hardwareAccelerated="true"
         android:icon="@drawable/wechat"
         android:label="@string/app_name"
-        android:theme="@style/@android:style/Theme.Holo.Light.NoActionBar" >
-        <meta-data
-            android:name="com.baidu.lbsapi.API_KEY"
-            android:value="KNtGizZn2o7SjILwenjihGp7ZuUrQIa7" />
-
-        <service
-            android:name="com.baidu.location.f"
-            android:enabled="true"
-            android:process=":remote" >
-        </service>
-        
-	    <!-- 测试  -->  
-	    <uses-library android:name="android.test.runner" />  
-
+        android:theme="@style/Default.NoTitleBar" >
         <activity
-            android:name="cn.edu.pku.wechat.activities.WelcomeActivity"
-            android:label="@string/app_name"
-            android:screenOrientation="portrait" >
+            android:name="com.way.activity.WelcomeActivity"
+            android:alwaysRetainTaskState="true"
+            android:configChanges="locale|keyboardHidden|orientation"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/Default.NoTitleBar.Fullscreen"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -71,28 +48,77 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="cn.edu.pku.wechat.activities.MainActivity"
-            android:label="@string/app_name"
-            android:screenOrientation="portrait" >
+            android:name="com.way.activity.FirstSetActivity"
+            android:alwaysRetainTaskState="true"
+            android:configChanges="locale|keyboardHidden|orientation"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
         </activity>
+        <activity 
+            android:name="com.way.activity.MainActivity"
+            android:alwaysRetainTaskState="true"
+            android:configChanges="locale|keyboardHidden|orientation"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize"></activity>
         <activity
-            android:name="cn.edu.pku.wechat.activities.RegisterActivity"
-            android:label="@string/app_name"
-            android:screenOrientation="portrait" >
+            android:name="com.way.activity.ChatActivity"
+            android:alwaysRetainTaskState="true"
+            android:configChanges="locale|keyboardHidden|orientation"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize" >
         </activity>
-        <activity
-            android:name="cn.edu.pku.wechat.activities.LoginActivity"
-            android:label="@string/app_name"
-            android:screenOrientation="portrait" >
-        </activity>
+        <!-- 消息预处理的intenService -->
+		<service android:name="com.way.baidupush.client.PreParseService"></service>
+        <!-- push service client -->
+        <receiver android:name="com.way.baidupush.client.PushMessageReceiver" >
+            <intent-filter>
+                <!-- 接收网络变化的广播 -->
+				<action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+                <!-- 接收push消息 -->
+                <action android:name="com.baidu.android.pushservice.action.MESSAGE" />
+                <!-- 接收bind,unbind,fetch,delete等反馈消息 -->
+                <action android:name="com.baidu.android.pushservice.action.RECEIVE" />
+                <action android:name="com.baidu.android.pushservice.action.notification.CLICK" />
+            </intent-filter>
+        </receiver>
 
-        <activity
-            android:name="cn.edu.pku.wechat.activities.ChatActivity"
-            android:label="@string/app_name"
-            android:screenOrientation="portrait">
-        </activity>
+        <!-- push service -->
+        <receiver
+            android:name="com.baidu.android.pushservice.PushServiceReceiver"
+            android:process=":bdservice_v1" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+                <action android:name="com.baidu.android.pushservice.action.notification.SHOW" />
+                <action android:name="com.baidu.android.pushservice.action.media.CLICK" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.baidu.android.pushservice.RegistrationReceiver"
+            android:process=":bdservice_v1" >
+            <intent-filter>
+                <action android:name="com.baidu.android.pushservice.action.METHOD" />
+                <action android:name="com.baidu.android.pushservice.action.BIND_SYNC" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.baidu.android.pushservice.PushService"
+            android:exported="true"
+            android:process=":bdservice_v1" />
+
+        <meta-data
+            android:name="api_key"
+            android:value="pGazyg22H5M7sL4m82XYjaRf" />
+        <!-- push service end -->
     </application>
 
-    <instrumentation android:name="android.test.InstrumentationTestRunner"  
-        android:targetPackage="cn.edu.pku.wechat" android:label="Tests for My App" />  
 </manifest>

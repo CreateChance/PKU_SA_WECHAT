@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/right_second_view_group"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_texture"
+    android:orientation="vertical" >
+
+    <TextView
+        style="@style/A1_Font"
+        android:layout_width="match_parent"
+        android:layout_height="46dip"
+        android:background="@drawable/chat_title_bg_repeat"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:paddingLeft="96.0dip"
+        android:paddingRight="96.0dip"
+        android:singleLine="true"
+        android:text="退 出" />
+
+    <TextView
+        style="@style/B4_Font_white"
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:gravity="center"
+        android:textSize="25sp"
+        android:layout_weight="1"
+        android:layout_gravity="center"
+        android:text="确定退出应用吗？" />
+
+    <Button
+        android:id="@+id/confirm_exit_btn"
+        style="@style/RedGreen"
+        android:layout_width="fill_parent"
+        android:layout_height="46.0dip"
+        android:layout_gravity="bottom"
+        android:layout_marginBottom="20.0dip"
+        android:layout_marginLeft="10.0dip"
+        android:layout_marginRight="10.0dip"
+        android:layout_marginTop="15.0dip"
+        android:background="@drawable/common_btn_red"
+        android:text="确定退出" />
+
+</LinearLayout>

@@ -1,0 +1,406 @@
+[
+    {
+        "outputFile": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/values-854x480/values-854x480.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/values-854x480/dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 658,
+                        "endColumn": 55,
+                        "endOffset": 709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 54,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/values-854x480/dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 603,
+                        "endColumn": 54,
+                        "endOffset": 653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 53,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/values-854x480/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1030,
+                        "endColumn": 53,
+                        "endOffset": 1079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 220,
+                    "endColumn": 53,
+                    "endOffset": 269
+                },
+                "from": {
+                    "file": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/values-854x480/dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1084,
+                        "endColumn": 53,
+                        "endOffset": 1133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 274,
+                    "endColumn": 50,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/values-854x480/dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 885,
+                        "endColumn": 50,
+                        "endOffset": 931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endColumn": 56,
+                    "endOffset": 377
+                },
+                "from": {
+                    "file": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/values-854x480/dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 828,
+                        "endColumn": 56,
+                        "endOffset": 880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 382,
+                    "endColumn": 52,
+                    "endOffset": 430
+                },
+                "from": {
+                    "file": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/values-854x480/dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 714,
+                        "endColumn": 52,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 435,
+                    "endColumn": 60,
+                    "endOffset": 491
+                },
+                "from": {
+                    "file": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/values-854x480/dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 767,
+                        "endColumn": 60,
+                        "endOffset": 823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 496,
+                    "endColumn": 46,
+                    "endOffset": 538
+                },
+                "from": {
+                    "file": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/values-854x480/dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 936,
+                        "endColumn": 46,
+                        "endOffset": 978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 543,
+                    "endColumn": 55,
+                    "endOffset": 594
+                },
+                "from": {
+                    "file": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/values-854x480/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 599,
+                    "endColumn": 63,
+                    "endOffset": 658
+                },
+                "from": {
+                    "file": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/values-854x480/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 367,
+                        "endColumn": 63,
+                        "endOffset": 426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 663,
+                    "endColumn": 63,
+                    "endOffset": 722
+                },
+                "from": {
+                    "file": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/values-854x480/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 63,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 727,
+                    "endColumn": 62,
+                    "endOffset": 785
+                },
+                "from": {
+                    "file": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/values-854x480/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 62,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 790,
+                    "endColumn": 70,
+                    "endOffset": 856
+                },
+                "from": {
+                    "file": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/values-854x480/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 431,
+                        "endColumn": 70,
+                        "endOffset": 497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 861,
+                    "endColumn": 60,
+                    "endOffset": 917
+                },
+                "from": {
+                    "file": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/values-854x480/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 238,
+                        "endColumn": 60,
+                        "endOffset": 294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 922,
+                    "endColumn": 67,
+                    "endOffset": 985
+                },
+                "from": {
+                    "file": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/values-854x480/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 299,
+                        "endColumn": 67,
+                        "endOffset": 362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 990,
+                    "endColumn": 54,
+                    "endOffset": 1040
+                },
+                "from": {
+                    "file": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/values-854x480/dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1195,
+                        "endColumn": 54,
+                        "endOffset": 1245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1045,
+                    "endColumn": 50,
+                    "endOffset": 1091
+                },
+                "from": {
+                    "file": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/values-854x480/dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 552,
+                        "endColumn": 50,
+                        "endOffset": 598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1096,
+                    "endColumn": 49,
+                    "endOffset": 1141
+                },
+                "from": {
+                    "file": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/values-854x480/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 502,
+                        "endColumn": 49,
+                        "endOffset": 547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1146,
+                    "endColumn": 46,
+                    "endOffset": 1188
+                },
+                "from": {
+                    "file": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/values-854x480/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 983,
+                        "endColumn": 46,
+                        "endOffset": 1025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1193,
+                    "endColumn": 56,
+                    "endOffset": 1245
+                },
+                "from": {
+                    "file": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/values-854x480/dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1138,
+                        "endColumn": 56,
+                        "endOffset": 1190
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,826 @@
+[
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f069.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f069.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_balloon_reply_bottom_pressed.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/chat_balloon_reply_bottom_pressed.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f056.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f056.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f020.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f020.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f060.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f060.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notify_general.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/notify_general.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f017.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f017.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/h7.jpg",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/h7.jpg"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_bottombar_input.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/chat_bottombar_input.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f088.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f088.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f099.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f099.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recent_chat_showright_pressed.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/recent_chat_showright_pressed.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_tool_video.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/chat_tool_video.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f084.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f084.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f013.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f013.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f049.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f049.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f014.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f014.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f067.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f067.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/balloon_l.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/balloon_l.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_bottombar_icon_face.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/chat_bottombar_icon_face.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f034.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f034.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f037.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f037.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f093.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f093.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f054.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f054.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f028.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f028.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_bottombar_icon_face_pressed.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/chat_bottombar_icon_face_pressed.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/profile_superqq_up.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/profile_superqq_up.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f100.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f100.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_texture.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/bg_texture.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f070.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f070.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cover_default_bg.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/cover_default_bg.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f002.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f002.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/h16.jpg",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/h16.jpg"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recent_chat_showright_normal.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/recent_chat_showright_normal.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/emotion_del_normal.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/emotion_del_normal.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f046.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f046.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_bg_01.jpg",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/chat_bg_01.jpg"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f010.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f010.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f038.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f038.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recent_chat_showleft_normal.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/recent_chat_showleft_normal.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_bottombar_btn.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/chat_bottombar_btn.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/balloon_r_pressed.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/balloon_r_pressed.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f004.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f004.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f061.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f061.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bpush_top_bg.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/bpush_top_bg.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f053.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f053.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f040.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f040.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_tool_mask.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/chat_tool_mask.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f083.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f083.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dot_unselected.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/dot_unselected.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/h6.jpg",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/h6.jpg"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f025.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f025.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/title_button_back_press.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/title_button_back_press.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/h13.jpg",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/h13.jpg"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_balloon_reply_bottom.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/chat_balloon_reply_bottom.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f042.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f042.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f098.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f098.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_balloon_reply_bottom_disable.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/chat_balloon_reply_bottom_disable.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f062.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f062.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_tool_location.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/chat_tool_location.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f068.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f068.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/title_bg_blue.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/title_bg_blue.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/main_navigation_background.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/main_navigation_background.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f021.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f021.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f029.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f029.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/h15.jpg",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/h15.jpg"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/main_2.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/main_2.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_time_block.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/chat_time_block.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/checkbox_unselect_press.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/checkbox_unselect_press.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f018.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f018.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_icon_disable_pressed.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/chat_icon_disable_pressed.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/red_del_btn_bg_nor.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/red_del_btn_bg_nor.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/simple_notification_icon.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/simple_notification_icon.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bottombar_bg.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/bottombar_bg.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f072.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f072.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f089.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f089.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_input_pressed.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/chat_input_pressed.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/title_button_back.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/title_button_back.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recent_chat_showleft_pressed.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/recent_chat_showleft_pressed.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f082.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f082.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/red_del_btn_bg_pre.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/red_del_btn_bg_pre.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_input.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/chat_input.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/h0.jpg",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/h0.jpg"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_tool_camera.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/chat_tool_camera.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f023.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f023.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f016.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f016.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f073.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f073.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f055.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f055.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f036.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f036.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f008.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f008.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f096.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f096.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/h14.jpg",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/h14.jpg"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_button.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/bg_button.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f074.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f074.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_bottombar_btn_pressed.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/chat_bottombar_btn_pressed.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/h3.jpg",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/h3.jpg"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f075.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f075.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f059.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f059.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f048.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f048.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/friend_list_bg.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/friend_list_bg.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/checkbox_selected_press.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/checkbox_selected_press.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/about_brand.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/about_brand.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f066.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f066.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f031.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f031.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/h9.jpg",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/h9.jpg"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f057.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f057.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bpush_list_item_bg.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/bpush_list_item_bg.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/h1.jpg",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/h1.jpg"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f081.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f081.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f102.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f102.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f104.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f104.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/main_3.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/main_3.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f005.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f005.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f094.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f094.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f041.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f041.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f050.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f050.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/h2.jpg",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/h2.jpg"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/female.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/female.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f032.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f032.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/h4.jpg",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/h4.jpg"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_bottombar_btn_untuch.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/chat_bottombar_btn_untuch.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/h12.jpg",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/h12.jpg"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/splash.jpg",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/splash.jpg"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f024.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f024.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/title_icon.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/title_icon.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f011.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f011.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f027.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f027.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f043.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f043.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f026.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f026.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f015.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f015.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_tool_voice.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/chat_tool_voice.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f090.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f090.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f085.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f085.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_icon_disable.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/chat_icon_disable.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f078.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f078.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f052.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f052.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bpush_message_prompt.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/bpush_message_prompt.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f003.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f003.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/male.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/male.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f077.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f077.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_button_pressed.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/bg_button_pressed.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/balloon_r.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/balloon_r.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/nomale.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/nomale.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/h10.jpg",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/h10.jpg"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f009.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f009.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f092.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f092.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f058.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f058.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f064.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f064.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/checkbox_selected.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/checkbox_selected.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/h8.jpg",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/h8.jpg"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f001.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f001.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/emotion_del_down.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/emotion_del_down.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/profile_superqq_icon.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/profile_superqq_icon.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_bottombar_icon_add.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/chat_bottombar_icon_add.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/refresh_arrow.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/refresh_arrow.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f076.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f076.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f044.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f044.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/h11.jpg",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/h11.jpg"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f047.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f047.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f033.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f033.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f007.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f007.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bpush_return_btn.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/bpush_return_btn.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f101.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f101.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f000.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f000.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f071.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f071.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f091.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f091.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f095.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f095.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f103.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f103.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/h18.jpg",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/h18.jpg"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/balloon_l_pressed.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/balloon_l_pressed.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f006.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f006.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_tool_photo.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/chat_tool_photo.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/title_button.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/title_button.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f022.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f022.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f065.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f065.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f012.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f012.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f106.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f106.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/h17.jpg",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/h17.jpg"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/h5.jpg",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/h5.jpg"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f039.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f039.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bpush_gray_logo.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/bpush_gray_logo.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/tips_new.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/tips_new.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_tool_paint.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/chat_tool_paint.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f097.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f097.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f019.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f019.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f086.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f086.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f035.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f035.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f105.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f105.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f030.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f030.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f063.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f063.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/scrollbar_handle_vertical.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/scrollbar_handle_vertical.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f087.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f087.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/checkbox_unselect.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/checkbox_unselect.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/title_button_press.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/title_button_press.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notify_newmessage.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/notify_newmessage.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f045.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f045.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_plugin_shadow.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/chat_plugin_shadow.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/home_btn_bg_s.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/home_btn_bg_s.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dot_selected.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/dot_selected.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f051.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f051.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chat_bottombar_icon_add_pressed.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/chat_bottombar_icon_add_pressed.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f079.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f079.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/default_pic_loading_back.9.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/default_pic_loading_back.9.png"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/f080.gif",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/f080.gif"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/main_1.png",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/drawable-hdpi/main_1.png"
+    }
+]

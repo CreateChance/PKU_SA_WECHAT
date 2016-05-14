@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/main_right_set_layout" />
+
+    <com.way.slidinglayer.SlidingLayer
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/right_sliding_layer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+       <!--  <FrameLayout
+            android:id="@+id/right_second_view_group"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <Button
+                android:id="@+id/confirm_exit_btn"
+                style="@style/RedGreen"
+                android:layout_width="fill_parent"
+                android:layout_height="46.0dip"
+                android:layout_gravity="bottom"
+                android:layout_marginBottom="20.0dip"
+                android:layout_marginLeft="10.0dip"
+                android:layout_marginRight="10.0dip"
+                android:layout_marginTop="15.0dip"
+                android:background="@drawable/common_btn_red"
+                android:text="close" />
+        </FrameLayout> -->
+    </com.way.slidinglayer.SlidingLayer>
+
+</FrameLayout>

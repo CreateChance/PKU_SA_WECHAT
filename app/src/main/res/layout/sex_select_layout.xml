@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:background="@color/white"
+    android:orientation="horizontal"
+    android:paddingBottom="5dip"
+    android:paddingTop="5dip" >
+
+    <ImageView
+        android:id="@+id/flag"
+        android:layout_width="21dp"
+        android:layout_height="21dp"
+        android:layout_gravity="center"
+        android:background="@color/white"
+        android:cropToPadding="true"
+        android:padding="1dp"
+        android:scaleType="fitXY"
+        android:src="@drawable/female" />
+
+    <TextView
+        android:id="@+id/sex_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="20dp"
+        android:text="美女"
+        android:textColor="#F000"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+</LinearLayout>

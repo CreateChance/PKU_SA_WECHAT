@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/console_line_bottom"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:layout_alignParentBottom="true"
+    android:background="@drawable/main_navigation_background"
+    android:orientation="horizontal" >
+
+    <RadioButton
+        android:id="@+id/ivTitleBtnLeft"
+        style="@style/main_tab_bottom"
+        android:drawableTop="@drawable/main_2"
+        android:text="@string/main_navigation_contacts" />
+
+    <RadioButton
+        android:id="@+id/ivTitleName"
+        style="@style/main_tab_bottom"
+        android:checked="true"
+        android:drawableTop="@drawable/main_1"
+        android:text="@string/main_navigation_chat" />
+
+    <RadioButton
+        android:id="@+id/ivTitleBtnRigh"
+        style="@style/main_tab_bottom"
+        android:drawableTop="@drawable/main_3"
+        android:text="@string/main_navigation_me" />
+
+</RadioGroup>

@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/contact_buddy_list_group.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/contact_buddy_list_group.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/main_left_fragment.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/main_left_fragment.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/notify_status_bar_latest_event_content_large_icon.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/notify_status_bar_latest_event_content_large_icon.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/main_bottom.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/main_bottom.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/xlistview_footer.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/xlistview_footer.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/sex_select_layout.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/sex_select_layout.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/exit_app_confirm.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/exit_app_confirm.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/feed_back_view.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/feed_back_view.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/xlistview_header.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/xlistview_header.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/notify_status_bar_latest_event_view.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/notify_status_bar_latest_event_view.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/message_header.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/message_header.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/net_status_bar.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/net_status_bar.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/main_right_fragment.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/main_right_fragment.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/head_select_layout.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/head_select_layout.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/common_title_bg.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/common_title_bg.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/recent_listview_item.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/recent_listview_item.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/contact_list_item.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/contact_list_item.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/chat_main.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/chat_main.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/chat_item_left.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/chat_item_left.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/contact_list_item_for_buddy.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/contact_list_item_for_buddy.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/accout_set_view.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/accout_set_view.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/activity_welcome.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/first_set_layout.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/first_set_layout.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/main_left_layout.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/main_left_layout.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/face.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/face.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/search_box.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/search_box.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/firset_dialog_view.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/firset_dialog_view.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/chat_item_right.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/chat_item_right.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/main_right_set_layout.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/main_right_set_layout.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/slidingmenumain.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/slidingmenumain.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/right_acount_set.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/right_acount_set.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/main_center_layout.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/main_center_layout.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/main_title.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/main_title.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/face_jazz_effect_view.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/face_jazz_effect_view.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/about.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/about.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/main_right_layout.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/main_right_layout.xml"
+    },
+    {
+        "merged": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/build/intermediates/res/merged/debug/layout/notification_layout.xml",
+        "source": "/home/baniel/MyWorkSpace/AndroidApp/pushMessage/app/src/main/res/layout/notification_layout.xml"
+    }
+]

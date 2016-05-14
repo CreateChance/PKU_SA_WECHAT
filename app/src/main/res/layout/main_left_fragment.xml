@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_left_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <include layout="@layout/main_title" />
+
+    <include layout="@layout/search_box" />
+
+    <com.way.xlistview.XExpandableListView
+        android:id="@+id/friend_xlistview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/transparent"
+        android:cacheColorHint="@android:color/transparent"
+        android:divider="@null"
+        android:transcriptMode="normal" >
+    </com.way.xlistview.XExpandableListView>
+
+</LinearLayout>
